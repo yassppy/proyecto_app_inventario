@@ -21,16 +21,16 @@ El sistema reemplazó un proceso de registro manual en papel, digitalizando el f
 ## Captura de pantalla
 
 ### Login en Power Apps
-![login](assets\parte01_login.png)
+![login](assets/parte01_login.png)
 
 ### Flujos en Power Automate
-![flujos](assets\parte02_flujos.png)
+![flujos](assets/parte02_flujos.png)
 
 ### Registro en Power Apps
-![flujos](assets\parte03_registro.png)
+![flujos](assets/parte03_registro.png)
 
 ### Generar PDF en Power Apps
-![flujos](assets\parte04_pdf.png)
+![flujos](assets/parte04_pdf.png)
 
 
 ## 📊 Resultados Obtenidos
